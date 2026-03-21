@@ -1,4 +1,4 @@
-# Amazon-sales-excel-dashboard
+## Amazon-sales-performance-analysis-dashboard
 📊 Retail Sales & Profitability Analysis (Amazon Dataset)
 📌 Project Overview
 
